@@ -1,0 +1,211 @@
+*body{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    border: 1px solid #ebe9e9;
+    position: relative;
+    width: 337px;
+    padding: 10px;
+    height: 431px;
+    left: 786px;
+    top: 83px;
+}
+.box img{
+    position: relative;
+    top : 6vh;
+    left: 3vw;
+}
+.box input{
+    border: 1px solid rgb(214, 200, 200) ;
+    width: 12vw;
+    background-color: #ebe9e9;
+    font-size: 11px;
+    position: relative;
+    top: 10vh;
+    left: 31px;
+    padding: 11px;
+}
+.box1 input{
+    border: 1px solid rgb(214, 200, 200) ;
+    width: 12vw;
+    background-color: #ebe9e9;
+    font-size: 11px;
+    position: relative;
+    top: 11vh;
+    left: 32px;
+    padding: 11px;
+}
+
+.box2 button{
+    border: 2px solid;
+    position: relative;
+    top: 14vh;
+    width: 14vw;
+    color: white;
+    left: 21px;
+    height: 6vh;
+    background-color : #0a7cff;
+    opacity : .7;
+    border-radius: 12px;
+}
+
+.box6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    position: relative;
+    /* left: 15px; */
+    top: 13vh;
+}
+
+.box6 .box3 p{
+     position: relative;
+      top: 4vh; 
+      left: -10px; 
+     font-size: 20px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+
+.box6 .box4 {
+    background-color: rgb(139, 137, 137);
+    height: 1px;
+        width: 7vw;
+        position: relative;
+        left: -1vw;
+         top: 4vh;
+        text-decoration: dashed; 
+        color: #ebe9e9;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+}
+
+.box6 .box5{
+    background-color: rgb(139, 137, 137);
+    height: 1px;
+    width: 7vw;
+    position: relative;
+    display: flex;
+    left: 0vw; 
+     top: 4vh;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.box7 {
+    position: relative;
+    top: 15vh;
+}
+.box7 img{
+    position: relative;
+    top: 11px;
+    left: 56px;
+}
+
+
+.box7 button {
+    background-color: white;
+    border: solid 0px;
+    position: relative;
+    top: 5px;
+    left: 56px;
+    color: blue;
+}
+.box7 button a{
+    text-decoration: none;
+}
+
+.box8{
+    position: relative;
+    top: 16vh;
+}
+.box8 button {
+    background-color: white;
+    border: solid 0px;
+    position: relative;
+    top: 3px;
+    color: #ebe9e9;
+    left: 51px;
+    color: blue;
+}
+
+.box8 button a{
+    text-decoration: none;
+    position: relative;
+    left: 35px;
+    color: blue;
+}
+.small
+{
+    border: 1px solid #ebe9e9;
+    position: relative;
+    width: 336px;
+    padding: 12px;
+    height: 58px;
+    left: 785px;;
+    top: 116px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.small span{
+    display: flex;
+    justify-content: center;
+}
+.small span p{
+    position: relative;
+    left: 5px;
+} 
+.small span button{
+    background-color: white;
+    border: solid 0px;
+    position: relative;
+    height: 2vh;
+    top: 17px;
+    color: blue;
+    left: 8px;
+}
+.small span button a{
+    text-decoration: none;
+}
+
+.clss p{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 1vw;
+    top: 16vh;
+}
+
+.clss .abs a{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-evenly;
+    flex-grow: 1;
+    width: 67px;
+    height: 5vh;
+    position: relative;
+    left: 39vw;
+    top: 18vh;
+}
+*footer{
+    padding: 0;
+    margin: 0;
+}
+.foot a{
+    
+    position: relative;
+    text-decoration: none;
+    font-size: 22px;
+    top: 15vh;
+    left: 378px;
+    color: #d1cdcd;
+}
